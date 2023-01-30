@@ -3,6 +3,7 @@
 A Faithful 32x pack for MineClone 2
 
 This is a port of Faithful 32x texture pack from Minecraft Java to MineClone 2.
+**Installation: Move all the files to Minetest/textures/FaithfulClone**
 
 NOTE: This is not official. Also this is the 1.12.x version of the pack with some things added from the 1.19.x version of the texture pack.
 
