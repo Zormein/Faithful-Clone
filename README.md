@@ -10,3 +10,5 @@ All credit goes to the Faithful Team You can find the original here: https://fai
 
 ## Screenshots
 ![Screenshot](https://github.com/Zormein/Faithful-Clone/raw/main/Files/screenshot.png)
+![Screenshot](https://github.com/Zormein/Faithful-Clone/raw/main/Files/screenshot1.png)
+![Screenshot](https://github.com/Zormein/Faithful-Clone/raw/main/Files/screenshot2.png)
